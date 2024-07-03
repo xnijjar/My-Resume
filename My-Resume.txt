@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+<h1> RANDEEP SINGH </h1>
+Markham, ON</body></br>
+
+randeepst03@gmail.com,</br></br>
+
+Summary:
+
+I am a dedicated computer engineering student with a passion for technology and a strong foundation in computer science. I am seeking opportunities to apply and enhance my knowledge through internships or part-time positions in a dynamic and innovative environment. Knowledge in computer hardware and software troubleshooting, maintenance, and repair. Acquired proficiency in diagnosing and resolving technical issues, optimizing system performance, and providing top-tier customer support. Developed strong problem-solving skills and a solid foundation in IT concepts, ensuring the ability to deliver effective solutions for a wide range of computer-related challenges.</br></br>
+
+<h2>Education:</h2>
+
+High school - BGS Public School (2020-21)</br>
+
+Non-medical ( 75%)</br>
+
+Computer Engineering Technician - Northern College (Pures Campus) - Jan 2023 To Aug 2024</br></br>
+
+<h3>Relevant Coursework:</h3>
+
+• Digital Logic Design</br>
+• Microprocessor Systems</br>
+• Data Structures and Algorithms</br>
+• Computer Networks</br>
+• Embedded Systems</br>
+• Software Engineering</br>
+• Computer Architecture</br>
+• Operating Systems</br></br>
+
+<h4>Work Experience:</h4>
+
+Church's Chicken (Restaurant)</br>
+
+Crew Member (Dec 2022 to Feb 2023)</br>
+
+Answering and resolving employee concerns and questions </br>
+Inspected the restaurant on a daily and weekly basis to ensure the smooth functioning of restaurant operations. </br>
+Kept track of weekly delivery invoices, approved timesheets</br>
+Take orders and pack the orders</br></br>
+
+Multimatics (Automobile Industry)</br>
+
+CNC Machine Operator (Feb 2023 to current Day)</br>
+
+Properly loaded and unloaded materials in and out of machines.</br>
+I Inspected finished parts by checking for defects to meet quality standards.</br>
+I Monitored machines during operation to make adjustments when necessary and produce quality parts.</br>
+I performed daily cleaning to keep machines in good working condition and prolong equipment lifespan.</br></br>
+<h5>Certificates:-</h5>
+
+Having a 6-month certificate in basic computer skills (MS Word, MS Excel, MS PowerPoint) and C, C++ language.</br></br>
+
+<h6>Languages:</h6>
+
+English, Hindi, Punjabi </br>
+</body>
+</html>
